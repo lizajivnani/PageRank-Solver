@@ -10,17 +10,17 @@
 
 
 
-<h3 align="left">Random Surfer Model</h1>
+<h3 align="left">Random Surfer Model</h3>
 
 
 
 
 ![image](https://github.com/user-attachments/assets/a32f1446-1d79-4e6f-b003-452d0c10db80)
 
-<br><br><br
+<br><br><br>
 
 
-<h3 align="left">Iterative Algorithm</h1>
+<h3 align="left">Iterative Algorithm</h3>
 
 ![image](https://github.com/user-attachments/assets/e2a5f460-d87a-4740-b99f-7d0d39f23a04)
 
