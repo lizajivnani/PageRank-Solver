@@ -50,7 +50,8 @@ corpus0/, corpus1/, corpus2/: Sample web page corpora for testing
 
 
 <h1 align="left">  Usage: </h1>
->>python pagerank.py [corpus]
+
+>> python pagerank.py [corpus]
 
 <br><br>
 **Acknowledgments**__:
