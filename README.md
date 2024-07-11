@@ -5,7 +5,10 @@ Ever wonder how Google decides which websites to show you first? That's what Pag
 1) Pretending to be a random internet surfer
 2) Using some cool math to calculate importance scores
 
-   
+
+<h1 align="center">Your Centered Title</h1>
+
+<p align="center">Your centered paragraph text goes here.</p>
 
 **Random Surfer Model:**
 
