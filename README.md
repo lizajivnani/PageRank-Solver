@@ -30,7 +30,7 @@
 
 It's a fun way to peek behind the curtain of how search engines work. Let's dive in and rank some pages!
 
-<h1 align="left">Features </h1>
+<h1 align="left"> Features </h1>
 
 
 Implementation of the PageRank algorithm using two methods:
@@ -42,14 +42,14 @@ Project Structure:
 pagerank.py: Main Python script containing the PageRank implementation
 corpus0/, corpus1/, corpus2/: Sample web page corpora for testing
 
-Key Functions:
+<h1 align="left">  Key Functions: </h1>
 
 1) transition_model(corpus, page, damping_factor): Returns a probability distribution over which page to visit next.
 2) sample_pagerank(corpus, damping_factor, n): Estimates PageRank values using the Random Surfer Model.
 3) iterate_pagerank(corpus, damping_factor): Calculates PageRank values using the iterative formula method.
 
 
-Usage:
+<h1 align="left">  Usage: </h1>
 >> python pagerank.py [corpus]
 
 
