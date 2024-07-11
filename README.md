@@ -5,9 +5,14 @@ Ever wonder how Google decides which websites to show you first? That's what Pag
 1) Pretending to be a random internet surfer
 2) Using some cool math to calculate importance scores
 
+   
+
 **Random Surfer Model:**
 
 ![image](https://github.com/user-attachments/assets/a32f1446-1d79-4e6f-b003-452d0c10db80)
+
+
+
 
 **Iterative Algorithm:**
 
