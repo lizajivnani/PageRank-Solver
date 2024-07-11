@@ -4,7 +4,7 @@
 <p align="left"> Ever wonder how Google decides which websites to show you first? That's what PageRank is all about! Check out this version of the PageRank algorithm. It's like creating a mini search engine that figures out which web pages are the most important. We'll use two different methods to do this:
 
 1) Pretending to be a random internet surfer
-2) Using some cool math to calculate importance scores.
+2) Using some fun math to calculate importance scores.
 
 </p>
 
