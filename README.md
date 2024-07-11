@@ -6,11 +6,11 @@ Ever wonder how Google decides which websites to show you first? That's what Pag
 2) Using some cool math to calculate importance scores
 
 
-<h1 align="center">Your Centered Title</h1>
+<h1 align="center">Random Surfer Model</h1>
 
 <p align="center">Your centered paragraph text goes here.</p>
 
-**Random Surfer Model:**
+
 
 ![image](https://github.com/user-attachments/assets/a32f1446-1d79-4e6f-b003-452d0c10db80)
 
