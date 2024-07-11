@@ -10,8 +10,7 @@
 
 
 
-<h1 align="center">Random Surfer Model</h1>
-
+<h1 align="left">Random Surfer Model</h1>
 
 
 
