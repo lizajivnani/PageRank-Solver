@@ -1,7 +1,7 @@
 <h1 align="left">Project Overview </h1>
 
 
-<p align="left">Ever wonder how Google decides which websites to show you first? That's what PageRank is all about! Check out this version of the PageRank algorithm. It's like creating a mini search engine that figures out which web pages are the most important. We'll use two different methods to do this:
+<p align="left"> Ever wonder how Google decides which websites to show you first? That's what PageRank is all about! Check out this version of the PageRank algorithm. It's like creating a mini search engine that figures out which web pages are the most important. We'll use two different methods to do this:
 
 1) Pretending to be a random internet surfer
 2) Using some cool math to calculate importance scores.
@@ -22,13 +22,16 @@
 
 <h3 align="left">Iterative Algorithm</h3>
 
+
+
 ![image](https://github.com/user-attachments/assets/e2a5f460-d87a-4740-b99f-7d0d39f23a04)
 
 
 
 It's a fun way to peek behind the curtain of how search engines work. Let's dive in and rank some pages!
 
-Features:
+<h1 align="left">Features </h1>
+
 
 Implementation of the PageRank algorithm using two methods:
 1) Random Surfer Model
