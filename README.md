@@ -52,7 +52,7 @@ corpus0/, corpus1/, corpus2/: Sample web page corpora for testing
 <h1 align="left">  Usage: </h1>
 >>python pagerank.py [corpus]
 
-
-Acknowledgments:
+<br><br>
+**Acknowledgments**__:
 This project is part of Harvard University's CS50 Introduction to Artificial Intelligence with Python, ©2024 Harvard University.
 
