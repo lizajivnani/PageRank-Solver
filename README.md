@@ -1,4 +1,4 @@
-<h1 align="center">Project Overview </h1>
+<h1 align="left">Project Overview </h1>
 
 
 <p align="center">Ever wonder how Google decides which websites to show you first? That's what PageRank is all about! Check out this version of the PageRank algorithm. It's like creating a mini search engine that figures out which web pages are the most important. We'll use two different methods to do this:
