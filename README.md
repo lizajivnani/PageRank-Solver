@@ -28,7 +28,6 @@
 
 
 
-It's a fun way to peek behind the curtain of how search engines work. Let's dive in and rank some pages!
 
 <h1 align="left"> Features </h1>
 
