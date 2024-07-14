@@ -54,5 +54,5 @@ corpus0/, corpus1/, corpus2/: Sample web page corpora for testing
 
 <br><br>
 **Acknowledgments**__:
-This project is part of Harvard University's CS50 Introduction to Artificial Intelligence with Python, ©2024 Harvard University.
+This project was implemented as part of the coursework for Harvard University's CS50 Introduction to Artificial Intelligence with Python.
 
